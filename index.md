@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Categoric
 
-You can use the [editor on GitHub](https://github.com/agentultra/categoric/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is James King. I have been doing some work to migrate data from unstructured formats to structured ones. My work is steeped in category theory and I aim to preserve 100% of your data using tools I'm developing. If you have a non-critical project without any hard deadlines and could afford to toss me a few hundred dollars to give you a chance to leverage that pile of data, please get in touch with me!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fill out the form below, tell me about your data problem, and I'll see if I can help.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agentultra/categoric/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://forms.gle/vgAMYNjZn8vdHqyb7
