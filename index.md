@@ -4,4 +4,4 @@ My name is James King. I have been doing some work to migrate data from unstruct
 
 Fill out the form below, tell me about your data problem, and I'll see if I can help.
 
-[https://forms.gle/vgAMYNjZn8vdHqyb7](Click here to leave me your contact information)
+[Click here to leave me your contact information](https://forms.gle/vgAMYNjZn8vdHqyb7)
